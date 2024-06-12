@@ -2,7 +2,7 @@
 # 프로젝트 주제
 ---
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:5DEBD7,100:b678c4&height=200&section=header&text=AVR_WashingMachine&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:5DEBD7,100:b678c4&height=200&section=header&text=AVR%20WashingMachine&fontSize=40)
 
 ---
 ## 작품 기간 : 24.01.15 ~ 24.01.22
